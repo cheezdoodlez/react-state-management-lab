@@ -1,3 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.fighters-list {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 ul {
   display: flex;
   flex-wrap: wrap;
